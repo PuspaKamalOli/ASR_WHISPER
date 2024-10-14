@@ -1,6 +1,6 @@
 # Ignore everything by default
 *
-
+!requirements.txt
 # Allow only specific files
 !preprocess.py
 !model.py
