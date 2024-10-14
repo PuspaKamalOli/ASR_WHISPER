@@ -1,0 +1,16 @@
+# Ignore everything by default
+*
+
+# Allow only specific files
+!preprocess.py
+!model.py
+!main.py
+
+# Allow the .gitignore file itself
+!.gitignore
+
+# Ignore virtual environment
+venv/
+whisper_ASR/
+whisper_ASR_model/
+#git remote set-url origin git@github.com:PuspaKamalOli/ASR_WHISPER.git
