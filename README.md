@@ -14,7 +14,7 @@ This project implements an Automatic Speech Recognition (ASR) system using state
 Ensure you have the following dependencies installed:
 
 ```bash
-pip install torch torchaudio transformers datasets librosa jiwer
+pip install -r requirements.txt
 ```
 
 Additionally, you may need to install FFmpeg for audio processing:
